@@ -1,6 +1,4 @@
-this is the readme file for the main project
-
-This is the easiest way to add one subproject from it's git repo to as a subdirectory to another main project, preserving both commit histories.
+this repository illustrates the easiest way to add one subproject from it's git repo as a subdirectory to another main project, preserving both commit histories.
 
 ### Here is the list of git/bash commands I used for this:
 
